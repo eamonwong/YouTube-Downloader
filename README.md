@@ -12,17 +12,6 @@ High-Resolution Downloads:
 Ensure you get the best quality available by automatically downloading YouTube videos in the highest resolution possible.
 The project aims to enhance the user experience by prioritising video quality.
 
-How to Use
-To download YouTube videos using this automation project, follow these steps:
-
-Clone the Repository:
-Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/youtube-downloader.git
-
-Navigate to the Project Directory:
-Move to the project directory using:
-cd youtube-downloader
-
 Run the Script:
 Open your terminal and run the Python script (youtube.py) along with the YouTube link in quotes.
 python3 youtube.py "Your-YouTube-Video-Link"
