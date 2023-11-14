@@ -15,23 +15,17 @@ How to Use
 To download YouTube videos using this automation project, follow these steps:
 
 Clone the Repository:
-
 Clone this repository to your local machine using the following command:
-bash
-Copy code
 git clone https://github.com/your-username/youtube-downloader.git
+
 Navigate to the Project Directory:
-
 Move to the project directory using:
-bash
-Copy code
 cd youtube-downloader
-Run the Script:
 
+Run the Script:
 Open your terminal and run the Python script (youtube.py) along with the YouTube link in quotes.
-bash
-Copy code
 python3 youtube.py "Your-YouTube-Video-Link"
+
 Future Enhancements
 While the current version serves its purpose, there are opportunities for further development and enhancement:
 
