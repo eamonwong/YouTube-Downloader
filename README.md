@@ -10,7 +10,8 @@ The Python script (youtube.py) streamlines the process, making it accessible to 
 High-Resolution Downloads:
 
 Ensure you get the best quality available by automatically downloading YouTube videos in the highest resolution possible.
-The project aims to enhance the user experience by prioritizing video quality.
+The project aims to enhance the user experience by prioritising video quality.
+
 How to Use
 To download YouTube videos using this automation project, follow these steps:
 
