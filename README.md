@@ -35,3 +35,7 @@ Acknowledgments
 This project was born out of the need for a simple and efficient YouTube video downloader. Special thanks to the open-source community and the developers behind the libraries used in this project.
 
 Enjoy downloading your YouTube videos hassle-free with YouTube-Downloader! If you encounter any issues or have suggestions, please feel free to open an issue or reach out. Happy downloading!
+
+
+https://github.com/eamonwong/YouTube-Downloader/assets/75913022/b4dd3be2-31a8-489b-8d7a-5f9a571fdb26
+
