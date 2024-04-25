@@ -3,7 +3,7 @@ Overview
 
 YouTube Downloader is a straightforward Python automation project that empowers you to effortlessly download any YouTube video directly to your computer, ensuring you get the highest available resolution. This project simplifies the process, providing a command-line interface for a quick and convenient YouTube video download experience.
 
-Features
+## Features
 - Simplified Video Download:
   - With just a few steps in the terminal, you can download your preferred YouTube videos effortlessly.
   - The Python script (youtube.py) streamlines the process, making it accessible to users with varying levels of technical expertise.
@@ -17,7 +17,7 @@ Run the Script:
   - python3 youtube.py "Your-YouTube-Video-Link"
 
 
-Future Enhancements
+## Future Enhancements
 
 While the current version serves its purpose, there are opportunities for further development and enhancement:
 
@@ -31,7 +31,7 @@ While the current version serves its purpose, there are opportunities for furthe
   - Allow users to specify download preferences, such as choosing between video and audio-only downloads.
 
 
-Acknowledgments
+## Acknowledgments
 
 This project was born out of the need for a simple and efficient YouTube video downloader. Special thanks to the open-source community and the developers behind the libraries used in this project.
 
