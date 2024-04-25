@@ -15,7 +15,9 @@ Run the Script:
 - Open your terminal and run the Python script (youtube.py) along with the YouTube link in quotes.
   - python3 youtube.py "Your-YouTube-Video-Link"
 
+
 Future Enhancements
+
 While the current version serves its purpose, there are opportunities for further development and enhancement:
 
 - User Interface Integration:
@@ -27,7 +29,9 @@ While the current version serves its purpose, there are opportunities for furthe
 - Download Preferences:
   - Allow users to specify download preferences, such as choosing between video and audio-only downloads.
 
+
 Acknowledgments
+
 This project was born out of the need for a simple and efficient YouTube video downloader. Special thanks to the open-source community and the developers behind the libraries used in this project.
 
 Enjoy downloading your YouTube videos hassle-free with YouTube-Downloader! Happy downloading!
