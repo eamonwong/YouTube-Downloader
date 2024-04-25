@@ -1,6 +1,7 @@
-# YouTube-Downloader
+# YouTube Downloader
 Overview
-YouTube-Downloader is a straightforward Python automation project that empowers you to effortlessly download any YouTube video directly to your computer, ensuring you get the highest available resolution. This project simplifies the process, providing a command-line interface for a quick and convenient YouTube video download experience.
+
+YouTube Downloader is a straightforward Python automation project that empowers you to effortlessly download any YouTube video directly to your computer, ensuring you get the highest available resolution. This project simplifies the process, providing a command-line interface for a quick and convenient YouTube video download experience.
 
 Features
 - Simplified Video Download:
