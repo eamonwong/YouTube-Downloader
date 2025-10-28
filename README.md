@@ -49,6 +49,7 @@ While the current version serves its purpose, there are opportunities for furthe
 - Download Preferences:
   - Allow users to specify download preferences, such as choosing between video and audio-only downloads.
 
+--- 
 
 Enjoy hassle-free YouTube video downloads! 🎥✨
 
