@@ -50,6 +50,6 @@ While the current version serves its purpose, there are opportunities for furthe
   - Allow users to specify download preferences, such as choosing between video and audio-only downloads.
 
 
-Enjoy downloading your YouTube videos hassle-free with YouTube-Downloader! Happy downloading!
+Enjoy hassle-free YouTube video downloads! 🎥✨
 
 https://github.com/eamonwong/YouTube-Downloader/assets/75913022/867f6d2f-12a3-4cb1-a9c5-d032b1a19cc1
